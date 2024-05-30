@@ -1,0 +1,65 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "pages/register/index"
+		},
+		{
+			"path": "pages/login/index"
+		},
+		{
+			"path": "pages/customer/index"
+		},
+		{
+			"path": "pages/desposit/index",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/notification/index"
+		},
+		{
+			"path": "pages/notification/detail"
+		},
+		{
+			"path": "pages/profit/index"
+		},
+		{
+			"path": "pages/financial/index"
+		},
+		{
+			"path": "pages/bill/index"
+		},
+		{
+			"path": "pages/share/index"
+		},
+		{
+			"path": "pages/team/index"
+		},
+		{
+			"path": "pages/transfer/index"
+		},
+		{
+			"path": "pages/withdrawal/index"
+		},
+		{
+			"path": "pages/tradeDetail/index"
+		},
+		{
+			"path": "pages/setPaypwd/index"
+		},
+		{
+			"path": "pages/other/index"
+		}
+    ],
+	"globalStyle": {
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "TRX2.0",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

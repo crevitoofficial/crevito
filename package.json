@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "crypto-js": "^4.1.1",
+    "echarts": "^5.3.2",
+    "vue-i18n": "^8.26.8"
+  },
+  "name": "new-trx",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:quacy/new-trx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
